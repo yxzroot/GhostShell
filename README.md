@@ -56,6 +56,9 @@ cmake --build build
 ## Running
 
 ```sh
+
+It also pushed the initial commit because I was too lazy to do it myself.
+
 ./build/ghostshell
 ```
 
@@ -111,6 +114,9 @@ Please keep changes focused, avoid committing generated build output, and includ
 
 It also pushed the initial commit because I was too lazy to do it myself.
 
-## License
+## Updates
 
+I will prob NEVER UPDATE this maybe once or twice but dont expect anything!!!
+
+## License
 GhostShell is available under the [MIT License](LICENSE).
