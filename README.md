@@ -57,8 +57,6 @@ cmake --build build
 
 ```sh
 
-It also pushed the initial commit because I was too lazy to do it myself.
-
 ./build/ghostshell
 ```
 
