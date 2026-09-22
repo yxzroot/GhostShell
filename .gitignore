@@ -1,0 +1,39 @@
+# CMake build output
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Compiled artifacts
+*.o
+*.obj
+*.a
+*.so
+*.so.*
+*.dylib
+*.exe
+
+# Test and coverage output
+Testing/
+CTestTestfile.cmake
+*.gcda
+*.gcno
+*.gcov
+
+# Local configuration and logs
+.env
+*.log
+*.core
+core
+
+# Editor and OS metadata
+.cache/
+.clangd/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
