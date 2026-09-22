@@ -105,6 +105,12 @@ ctest --test-dir build --output-on-failure
 
 Please keep changes focused, avoid committing generated build output, and include tests when changing parsing or platform-facing behavior.
 
+## Credits
+
+**GitHub Copilot** helped me fix a bunch of problems while working on GhostShell and get everything working properly.
+
+It also pushed the initial commit because I was too lazy to do it myself.
+
 ## License
 
 GhostShell is available under the [MIT License](LICENSE).
